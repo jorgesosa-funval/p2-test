@@ -2,8 +2,7 @@ import { useState } from 'react'
 import { Input } from './components/input'
 import { Button } from './components/button'
 import Pexels from './components/pexels'
-import Cards from './components/cards'
-import PexelsPhotos from './components/PexelsPhotos'
+ 
 // import { createClient } from 'pexels'
 
 // const client = createClient('JNmdMAkd4EopN8OnxSkEZ9es3QFQuKsdn9XAWvRRrO3CwVLOIG17pb4c');
