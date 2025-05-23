@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Input } from './components/input'
 import { Button } from './components/button'
 import Pexels from './components/pexels'
+import PexelsPhotos from './components/PexelsPhotos'
  
 // import { createClient } from 'pexels'
 
